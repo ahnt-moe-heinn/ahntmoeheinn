@@ -1,0 +1,11 @@
+domain.json
+
+{
+    "owner": {
+        "username": "ahnt-moe-heinn",
+        "email": "ahntmoeheinnn@gmail.com"
+    },
+    "records": {
+        "CNAME": "your-sitename.pages.dev"
+    }
+}
